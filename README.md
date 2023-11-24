@@ -6,3 +6,4 @@ For example : If the weight is too huge and the distance from the center is quit
 Another important factor is how the cluster centers are selected, becuase here as well importance has been given to both distance as well as the weight.
 If you want to have an indepth understanding then you may consider looking into the library where the code has been build from scratch. 
 There is also a YouTube Video explaining the concept which was originally made for Shell Hackathon. You can have a look into it as well. URL : https://youtu.be/gB7cmxTGu5U 
+It may not be possible to directly take the function from the library and use it, as it has been developed based on the criteria and the dataset provided. But the idea can be adopted with minor changes for further use in different applications.
